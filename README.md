@@ -49,4 +49,5 @@ Created and maintained by **Beenath Mansika**.
 4. Access the admin panel via your local browser.
 
 ---
-*Built with ❤️ by BEE.LK*
+*Built by BEE.LK*
+
