@@ -1,0 +1,3 @@
+Plz create database - restaurant_db
+
+Import given Sql
