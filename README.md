@@ -1,4 +1,4 @@
-# Curry Leaves - Restaurant Management System
+# Curry Leaves - Restaurant Management System (BEE.LK 🐝)
 
 A premium, modern, and mobile-responsive Restaurant Management System designed for elegance and efficiency.
 
@@ -33,7 +33,7 @@ A premium, modern, and mobile-responsive Restaurant Management System designed f
 
 ## 🔒 Copyright & Attribution
 
-**copyright all recieved BEE.LK**
+**Copyright all received BEE.LK**
 
 Created and maintained by **Beenath Mansika**.
 
@@ -49,5 +49,10 @@ Created and maintained by **Beenath Mansika**.
 4. Access the admin panel via your local browser.
 
 ---
-*Built by BEE.LK*
+
+<img width="1080" height="1080" alt="Yellow Brown Modern Today`s Special Menu Facebook Post (1080 x 1080 px) (2)" src="https://github.com/user-attachments/assets/66ce9c54-eac3-4604-bae7-63efc4334719" />
+
+---
+*Built by BEE.LK🐝*
+
 
